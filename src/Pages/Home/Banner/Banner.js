@@ -19,8 +19,8 @@ const Banner = () => {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h4 style={{color:'blueviolet'}}>The perfect venue for your next event</h4>
-                    <p style={{color:'orangered'}}> Make your event more special !!!</p>
+                    <h3 style={{color:'white'}}>The perfect venue for your next event</h3>
+                    <p style={{color:'hotpink'}}> Make your event more special !!!</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -31,8 +31,8 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                <h4 style={{color:'blueviolet'}}>The perfect venue for your next event</h4>
-                <p style={{color:'orangered'}}> Make your event more special !!!</p>
+                <h3 style={{color:'white'}}>The perfect venue for your next event</h3>
+                <p style={{color:'hotpink'}}> Make your event more special !!!</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -42,8 +42,8 @@ const Banner = () => {
                     alt="Third slide"
                 />
                 <Carousel.Caption>
-                <h4 style={{color:'blueviolet'}}>The perfect venue for your next event</h4>
-                <p style={{color:'orangered'}}> Make your event more special !!!</p>
+                <h3 style={{color:'white'}}>The perfect venue for your next event</h3>
+                <p style={{color:'hotpink'}}> Make your event more special !!!</p>
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>

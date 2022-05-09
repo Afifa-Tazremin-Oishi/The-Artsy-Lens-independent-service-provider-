@@ -25,7 +25,7 @@ const About = () => {
             <Card >
                 <Card.Body>
                     <Card.Text>
-                    <h3 style={{color:'orange'}}>Vission</h3>
+                    <h3 style={{color:'violet'}}>Vission</h3>
                 <p>My vision is to be the largest global mobile/web development company. Focused on constant innovation as my key for achieving the ultimate goal of success.</p>
                     </Card.Text>
                 </Card.Body>

@@ -12,10 +12,10 @@ const Checkout = () => {
     return (
         <div className='container p-2'>
             <div>
-                <h3 className='text-center'>Enter Information for your Appointment</h3>
+                <h3 className='text-center' style={{color:'orange'}}>Enter Information for your Appointment</h3>
             </div>
             <div>
-                <h5 className='text-center'>You Chossed Service: {serviceId}</h5>
+                <h5 className='text-center' style={{color:'yellowgreen'}}>You Chossed Service: {serviceId}</h5>
             </div>
             <Form onSubmit={handleSubmit}>
                 <Row className="mb-3">
