@@ -11,7 +11,7 @@ const Blogs = () => {
 
             <Accordion defaultActiveKey={['0']} alwaysOpen>
                 <Accordion.Item eventKey="0">
-                    <Accordion.Header>Difference between authorization and authentication.</Accordion.Header>
+                    <Accordion.Header><strong>Difference between authorization and authentication.</strong></Accordion.Header>
                     <Accordion.Body className='mt-3'>
 
                         <p>Authentication is a process involving the verification of the user. Authorization validates privileges of the user but authentications verify its credentials. The authorization has priority over authentication. Authorization asks what permission does the user have in order to access the system.</p>
@@ -24,7 +24,7 @@ const Blogs = () => {
                 </Accordion.Item>
 
                 <Accordion.Item eventKey="1">
-                    <Accordion.Header> Why are you using firebase? What other options do you have to implement authentication? </Accordion.Header>
+                    <Accordion.Header> <strong>Why are you using firebase? What other options do you have to implement authentication?</strong> </Accordion.Header>
                     <Accordion.Body>
                     <p>Many characteristics distinguish Google Firebase as the go-to backend development tool for web and mobile projects. It cuts down on development time and effort. It's also an excellent prototyping tool. Firebase is a simple, lightweight, user-friendly, and well-known platform. </p>
                         
@@ -41,7 +41,7 @@ const Blogs = () => {
                 </Accordion.Item>
 
                 <Accordion.Item eventKey="2">
-                    <Accordion.Header> What other services does firebase provide other than authentication ?</Accordion.Header>
+                    <Accordion.Header> <strong>What other services does firebase provide other than authentication ?</strong></Accordion.Header>
                     <Accordion.Body>
                        
                         <p>There are many services which Firebase provides, Most useful of them are:</p>
