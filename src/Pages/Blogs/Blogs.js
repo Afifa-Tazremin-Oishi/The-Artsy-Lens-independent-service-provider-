@@ -4,7 +4,7 @@ import Table from 'react-bootstrap/Table'
 
 const Blogs = () => {
     return (
-        <div className='px-5 mt-5 fw-bold'>
+        <div className='px-5 mt-5'>
 
 
             <h1 className='p-5 justify-content-center text-center'> Question Part</h1>

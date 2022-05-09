@@ -12,9 +12,9 @@ const Header = () => {
     }
     return (
         <>
-            <Navbar bg="dark" collapseOnSelect expand="lg" sticky='top' variant="dark">
+            <Navbar bg="primary" collapseOnSelect expand="lg" sticky='top' variant="dark">
                 <Container>
-                    <Navbar.Brand as={PreparedLink} to="/">The Artsy Lens</Navbar.Brand>
+                    <Navbar.Brand as={PreparedLink} to="/" style={{color: 'hotpink'}}><strong>The Artsy Lens</strong></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto ">

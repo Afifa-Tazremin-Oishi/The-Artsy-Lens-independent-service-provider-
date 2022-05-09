@@ -41,18 +41,6 @@ const Checkout = () => {
                         <Form.Control />
                     </Form.Group>
 
-                    <Form.Group as={Col} controlId="formGridState">
-                        <Form.Label>Service</Form.Label>
-                        <Form.Select defaultValue="Choose...">
-                            <option>Choose.</option>
-                            <option>Legal Information and Advice</option>
-                            <option>Consultation to Review Documents</option>
-                            <option>Preparation of Documents</option>
-                            <option>Representing Clients in Court</option>
-                            <option>Civil filing, rescue, declaration of rights and others</option>
-                            <option>Check Bounce, Money Laundering Case</option>
-                        </Form.Select>
-                    </Form.Group>
 
                     <Form.Group as={Col} controlId="formGridZip">
                         <Form.Label>Date</Form.Label>

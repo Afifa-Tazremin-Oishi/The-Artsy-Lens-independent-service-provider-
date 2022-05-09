@@ -1,44 +1,23 @@
 [
     {
-        "id": "",
-        "picture": "",
-        "name": "",
-        "price": ,
-        "about": "  "
+        "id": "HHH234589333",
+        "picture": "https://www.linkpicture.com/q/pic1_4.png",
+        "name": "PHOTOGRAPHY",
+        "price": 3500,
+        "about": "Wedding photography is a specialty in photography that is primarily focused on the photography of events and activities relating to weddings. It may include other types of portrait photography of the couple before the official wedding day,  such as a pre-wedding engagement session.git inn "
     },
     {
-        "id": "",
-        "picture": "",
-        "name": "",
-        "price": ,
-        "about": ""
+        "id": "DDD868756544",
+        "picture": "https://www.linkpicture.com/q/pic2_4.png",
+        "name": "COMBO PACKAGES",
+        "price":7500 ,
+        "about": "Everything you need to know about the all inclusive wedding packages. How you can customize it and what services it offers. We show you some possibilities. A good wedding photographer is comfortable around people and has a trustworthy personality. She has an eye for detail and practices discretion."
     },
     {
-        "id": "",
-        "picture": "",
-        "name": "",
-        "price": ,
-        "about": ""
-    },
-    {
-        "id": "",
-        "picture": "",
-        "name": "",
-        "price": ,
-        "about": ""
-    },
-    {
-        "id": "",
-        "picture": "",
-        "name": " ",
-        "price": ,
-        "about": ""
-    },
-    {
-        "id": "",
-        "picture": "",
-        "name": "",
-        "price": ,
-        "about": ""
+        "id": "YYY558889934",
+        "picture": "https://www.linkpicture.com/q/pic3_8.png",
+        "name": "CINEMATOGRAPHY",
+        "price":5500 ,
+        "about": "A Cinematic Wedding Video is telling a story. We do this through the mix of speeches, images, and music. The film is shot differently as the Cinematographer will shoot in high quality short clips. This is because they are shooting to tell a story, not just document every single minute of the day."
     }
 ]
