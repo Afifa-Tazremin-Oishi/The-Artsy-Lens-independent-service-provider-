@@ -1,9 +1,12 @@
 ### The Artsy Lens
+
 It's a photography website that has been built with react. It's a responsive, dynamic website. The Home, Login, Sign Up, Services, Checkout, Contact, About, and Blogs pages are all included.
-This is a user-friendly site. This website's opportunities are easily accessible to users. This website also includes authentication function. 
-Live link: [The Artst Lens] (https://the-artsy-lens-ed44e.web.app/)
+This is a user-friendly site. This website's opportunities are easily accessible to users. This website also includes authentication function.
+
+Live link: [The Artst Lens](https://the-artsy-lens-ed44e.web.app/)
 
 ### Technology Used
+
 <ul>
               <li>React js v-18.0.0</li>
               <li>react router dom v-6.3.0</li>
@@ -14,7 +17,7 @@ Live link: [The Artst Lens] (https://the-artsy-lens-ed44e.web.app/)
               <li>React toastify 9.0.1</li>
               
 </ul>
-
+### Features
 <ul>
                         <li> User Authentication</li>
                         <li>Sign up page</li>
